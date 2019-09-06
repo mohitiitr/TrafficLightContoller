@@ -15,3 +15,7 @@ then after wards the traffic light controller system jumps to the normal mode ag
 \n
 Test Mode: here the red lights stay on on both the highways ,until the system is made to go in the normal or vip modes
 ,this  mode is designed to use in night.
+
+
+\n\n\n\n\n
+Apart form that our team also designed a mod 14 counter using verilog that was deployed on the Basys 3 FPGA.
