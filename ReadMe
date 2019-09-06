@@ -1,0 +1,17 @@
+Unfortunately when I did the project I was not that serious ,
+and thus I don't have verilog codes (except the one without any comment in the slides).
+\n
+The details of the project my team was to design a verilog module to be deployed in the Basys 3 FPGA 
+that would control the traffic flow on a crossing with one way highways.
+\n
+I lead my team for the verilog project.
+\n
+The traffic light contoller that we designed is able to operate in 3 modes ,
+\n
+Normal modes with automatic switching between green and red lights after 5 seconds.
+\n
+VIP mode : where the green lights stay on on the highway with VIP cars for 10 seconds and 
+then after wards the traffic light controller system jumps to the normal mode again
+\n
+Test Mode: here the red lights stay on on both the highways ,until the system is made to go in the normal or vip modes
+,this  mode is designed to use in night.
